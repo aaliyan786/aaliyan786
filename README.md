@@ -26,13 +26,6 @@ Here’s what I work with to bring ideas to life:
 
 ---
 
-## 📊 Language Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaliyan786&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
 ## 🌐 Personal Portfolio  
 🔗 Dive into my projects and professional journey:  
 [**Discover My Work**](https://portfolio-aali.netlify.app/)
