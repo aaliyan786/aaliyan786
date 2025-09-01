@@ -32,8 +32,8 @@ Here’s what I work with to bring ideas to life:
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Aaliyan-Khan&theme=radical&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophy" />
 </p>
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Aaliyan-Khan&count_private=true&show_icons=true&theme=radical" alt="GitHub Stats" /></a>
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Aaliyan-Khan&count_private=true&theme=radical" alt="GitHub Streak" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=aaliyan786&count_private=true&show_icons=true&theme=radical" alt="GitHub Stats" /></a>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Aaliyancount_private=true&theme=radical" alt="GitHub Streak" /></a>
 </p>
 
 
